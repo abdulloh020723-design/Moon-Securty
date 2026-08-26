@@ -21,7 +21,7 @@ app = Flask(__name__)
 # 📢 MAJBURIY OBUNA
 # =========================
 
-CHANNEL_USERNAME = "@SENING_KANALING"
+CHANNEL_USERNAME = "@moonsecurityy"
 GROUP_USERNAME = "@SENING_GURUHING"
 
 
